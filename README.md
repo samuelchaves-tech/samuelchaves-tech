@@ -1,7 +1,7 @@
 <h1 align="center">Samuel Santos Chaves</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack+Júnior;React+%7C+Node.js+%7C+JavaScript;Construindo+projetos+e+evoluindo+todos+os+dias" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack+;React+%7C+Node.js+%7C+JavaScript;Construindo+projetos+e+evoluindo+todos+os+dias" />
 </p>
 
 <p align="center">
