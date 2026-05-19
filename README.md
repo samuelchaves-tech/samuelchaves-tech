@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  Desenvolvedor Full Stack Júnior • React • Node.js • JavaScript
+  Desenvolvedor Full Stack • React • Node.js • JavaScript
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Full Stack Júnior formado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília.
+Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília.
 
 Tenho experiência prática no desenvolvimento de aplicações web, APIs REST e interfaces responsivas utilizando tecnologias como React.js, Node.js, JavaScript e PostgreSQL.
 
